@@ -1,13 +1,15 @@
 # DuongLT
 
 ## Run Todo app
-Run backend:
+I. Run backend:
 ```
 cd backend
 npm install
 npm start
 ```
-Run frontend:
+II. Run frontend:
+```
 cd frontend
 npm install
 npm start
+```
